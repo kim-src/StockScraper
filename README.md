@@ -1,19 +1,13 @@
-<!-- Introduction -->
-### 🎁 My Profile
-- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+### 🎁 Tunnel
+- [StockScraper 세부내용 (글제목 : 웹 크롤링을 이용한 데이터 분석)](https://kim-src.github.io/categories/toy-project/)
+- [링크드인 프로필 (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
 <br>
-<br>
 
-<!-- Update Date -->
-#### Date : January 8, 2024
-
-<!-- Title -->
 # ✅ Stock Price Information
 
 <br>
 
-<!-- Contents -->
 ### 🔔 주식 종가 조회 시스템
 > - 주요 언어 : Python  
 > - 주요 라이브러리 : BeautifulSoup, Pandas  
