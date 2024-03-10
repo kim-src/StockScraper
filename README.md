@@ -11,7 +11,7 @@
 > - 개발 내용 : 네이버 증권 사이트를 이용한 삼성전자 주식 정보 수집
 > - 개발 역량 : Colab 활용, Python의 BeautifulSoup, Pandas, Requests 활용, 웹 크롤링 이해
 > - 상세 내용 : <a href="https://kim-src.github.io/categories/toy-project/">깃허브 블로그 글 (제목 : 웹 크롤링을 이용한 데이터 분석)</a>
-> - 기술 스택 :  
+> - 개발에 필요했던 기능 :  
 > <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-2ca02c.svg?style=flat-square&logo=python&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-white.svg?style=flat-square&logo=pandas&logoColor=black" /> <img alt="Requests" src="https://img.shields.io/badge/Requests-2CA5E0.svg?style=flat-square&logo=python&logoColor=white" />
 
 <br>
