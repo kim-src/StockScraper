@@ -13,6 +13,13 @@
 > - 상세 내용 : <a href="https://kim-src.github.io/categories/toy-project/">깃허브 블로그 글 (제목 : 웹 크롤링을 이용한 데이터 분석)</a>
 > - 개발에 필요했던 기능 :  
 > <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-2ca02c.svg?style=flat-square&logo=python&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-white.svg?style=flat-square&logo=pandas&logoColor=black" /> <img alt="Requests" src="https://img.shields.io/badge/Requests-2CA5E0.svg?style=flat-square&logo=python&logoColor=white" />
+> 
+> #### 🔔 학습 결론
+> - 웹 크롤링 기능을 구현할 수 있는 간단한 프로그램을 제작하였습니다.
+> - 웹 크롤링을 이용하여 HTML로 구성된 웹 페이지 정보를 쉽게 가져올 수 있었습니다.
+> - 더 나아가면 검색 엔진 프로그램 개발에 활용될 수 있을 것 같습니다.
+> - 그런데 웹 크롤링은 수많은 데이터 분석 방법 중 단지 하나의 도구일뿐이었습니다.
+> - 물론 자동화 프로그램 개발도 중요하지만 데이터 수집 계획 및 해석 방법이 더 중요한 것 같습니다.
 
 <br>
 
